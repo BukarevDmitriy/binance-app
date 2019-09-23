@@ -13,12 +13,12 @@ const routes = [
 	},
 	{
 		name: 'table_for_data',
-		path: '/table',
+		path: 'table',
 		component: TableForData,
 	},
 	{
 		name: 'dropdown_for_symbol',
-		path: '/symbol',
+		path: 'symbol',
 		component: DropdownSymbol,
 	},
 ];
