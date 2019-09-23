@@ -8,7 +8,7 @@ import DropdownSymbol from './components/DropdownSymbol';
 
 const routes = [
 	{
-		path: '',
+		path: '/',
 		redirect: {name: 'table_for_data'}
 	},
 	{
